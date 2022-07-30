@@ -60,5 +60,21 @@ display: flex;
   width: 33.3%;
 }
 .grid-col-4 > grid-item {
-  width: 25%;
+  width: 25px;
+}
+.future {
+  text-align: center;
+  padding: 0 15px;
+}
+.future-headline {
+  font-weight: bold;
+  margin: 0 0 20px;
+}
+  
+.future-img {
+  margin: 0 0 20px;
+}
+.future-description {
+  margin: 0;
+  text-align: left;
 }
